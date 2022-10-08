@@ -743,8 +743,7 @@ button:focus{
 
 .page-breadcrumb {
     padding: 220px 0 150px;
-    /* background: url(../images/champ.png) no-repeat; */
-    background: #010101 !important;
+    background: url(../images/champ.png) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
